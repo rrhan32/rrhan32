@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohan
-- 👀 I’m interested in coding
-- 🌱 I’m a learning enthsiast
-- 📫  reach me through email
+- 👀 interested in coding
+- 🌱 learning enthusiast
+- 📫  reach me through email : raj.32@iitj.ac.in
 
 <!---
 rrhan32/rrhan32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
