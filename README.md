@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NextJs<br>👯 I’m looking to collaborate on dev projects<br>🤝 I’m looking for help with<br>💬 Ask me about DSA , Dev , ML<br>⚡Football <3 
+🔭 I’m currently working on NextJs<br>👯 I’m looking to collaborate on dev projects<br><br>💬 Ask me about DSA , Dev , ML<br>⚡Football <3 
 
 
 ## 🌐 Socials:
